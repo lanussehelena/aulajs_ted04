@@ -19,7 +19,7 @@ Adicione uma função exibirResumo() que formate e exiba um resumo final da comp
 
 OBS: Use prompt() para ler os dados do usuário (preço e quantidade).
 
-*/10
+*/
 
 
 function calcularTotal() {
